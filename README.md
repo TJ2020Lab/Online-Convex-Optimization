@@ -42,29 +42,16 @@ Bodyfat dataset can be downloaded from LIBSVM library ( https://www.csie.ntu.edu
 ## Results
 
 
-
-
 Results are presented:
 
-Figure 1:
-![avatar](1_c.png)
 
-Figure 2:
-![avatar](1_sc.png)
+![avatar](https://raw.githubusercontent.com/TJ2020Lab/Online-Convex-Optimization/main/pic/1%262.png)
 
-Figure 3:
-<figure class="third">
-    <img src="convex_complete_p.png"， width="150"/>
-    <img src="convex_star_p.png"， width="150"/>
-    <img src="convex_kregular_p.png"， width="150"/>
-</figure>
 
-Figure 4:
-<figure class="third">
-    <img src="sc_complete_p.png"， width="150"/>
-    <img src="sc_star_p.png"， width="150"/>
-    <img src="sc_kregular_p.png"， width="150"/>
-</figure>
+![avatar](https://raw.githubusercontent.com/TJ2020Lab/Online-Convex-Optimization/main/pic/3.png)
+
+
+![avatar](https://raw.githubusercontent.com/TJ2020Lab/Online-Convex-Optimization/main/pic/4.png)
 
 
 ## License
