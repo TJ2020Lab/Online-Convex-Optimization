@@ -15,7 +15,7 @@ Libsvm can be installed [here](https://www.csie.ntu.edu.tw/~cjlin/libsvm/).
 
 ## Usage
 
-Setups on numerical experiments in this paper :
+Setups on numerical experiments in this paper:
 
 
 | Index        | Base Graphs | Losses  | Probability |  Time Horizon *T*
@@ -31,9 +31,9 @@ Setups on numerical experiments in this paper :
 
 For experiment 1 and 2, run "body_fat_main.m". For experiment 3 and 4, run "a_influence_probability.m".
 
-We also provide the program file, "a_influence_d.m" and "a_influence_n.m", for researching the impact of decision variable dimension *d* and network size *N* on the preformance of algorithms respectively.
+We also provide the code in experiment 5, "a_influence_d.m" and "a_influence_n.m", for researching the impact of decision variable dimension *d* and network size *N* on the preformance of algorithms respectively.
 
-Setups on experiment 5 :
+Setups on experiment 5:
 
 | Index        | Base Graphs | Losses |  Time Horizon *T* | node number *N*  | vector dimension *d*
 | :------: | :------: | :------: | :--------------: | :--------------: | :--------------: |
@@ -60,6 +60,7 @@ Results are presented:
 
 
 ![avatar](https://raw.githubusercontent.com/TJ2020Lab/Online-Convex-Optimization/main/pic/4.png)
+
 
 ![avatar](https://raw.githubusercontent.com/TJ2020Lab/Online-Convex-Optimization/main/pic/5.png)
 
