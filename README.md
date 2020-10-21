@@ -33,6 +33,14 @@ For experiment 1 and 2, run "body_fat_main.m". For experiment 3 and 4, run "a_in
 
 We also provide the program file, "a_influence_d.m" and "a_influence_n.m", for researching the impact of decision variable dimension *d* and network size *N* on the preformance of algorithms respectively.
 
+Setups on experiment 5 :
+
+| Index        | Base Graphs | Losses |  Time Horizon *T* | node number *N*  | vector dimension *d*
+| :------: | :------: | :------: | :--------------: | :--------------: | :--------------: |
+| 5(a)   |     *k*-regular(*k*=3)      |      convex    | 200 | 5:80 | 14
+| 5(b)   |     *k*-regular(*k*=3)      |     strongly convex    | 200 | 5:80 | 14
+| 5(c)   |     *k*-regular(*k*=3)      |      convex    | 200 | 20 | 5:100
+| 5(d)   |     *k*-regular(*k*=3)      |     strongly convex    | 200 | 20 | 5:100
 
 ## Data Preparation
 
