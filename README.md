@@ -31,7 +31,7 @@ Setups on numerical experiments in this paper:
 
 For experiment 1 and 2, run "body_fat_main.m". For experiment 3 and 4, run "a_influence_probability.m".
 
-We also provide the code in experiment 5, "a_influence_d.m" and "a_influence_n.m", for researching the impact of decision variable dimension *d* and network size *N* on the preformance of algorithms respectively.
+We also provide the code in experiment 5, "a_influence_n.m" and "a_influence_d.m", for researching the impact of network size *N* and decision variable dimension *d* on preformance of algorithms respectively.
 
 Setups on experiment 5:
 
